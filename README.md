@@ -1,4 +1,4 @@
 # git_test
 My cloud project GitHub repo!
-Hello Cloud!
-this is a README.MD file edited version...  
+Hello Cloud Guru!
+This is a README.MD file and edited latest version.....
